@@ -11,9 +11,6 @@ This project demonstrates a simple web-based decimal to binary converter. It use
 2. Press the "Convert" button or hit Enter.
 3. The result will be displayed in binary format.
 
-### CodePen
-You can view and run the project directly on [CodePen](YOUR_CODEPEN_LINK).
-
 ### Files:
 - `index.html`: The HTML structure.
 - `styles.css`: The CSS for styling the application.

@@ -18,9 +18,6 @@ The **Number Sorter** is a simple web application that allows users to input a l
 2. Click the **Sort** button to sort the numbers.
 3. View the sorted numbers displayed below.
 
-## Live Demo
-You can view and interact with the live version of the project at: [CodePen Link](insert-your-codepen-link-here)
-
 ## Installation
 To run this project locally:
 1. Download or clone the repository.
