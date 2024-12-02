@@ -13,7 +13,8 @@ This project implements a Sudoku solver using a backtracking algorithm. Given a 
 
 ## Usage
 1. Clone or download the repository.
-2. Run the script:
-   ```bash
-   python sudoku_solver.py
 
+2. Run the script:
+```bash
+python main.py
+```

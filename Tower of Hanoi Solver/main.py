@@ -23,4 +23,3 @@ def move(n, source, auxiliary, target):
     
 # Start the recursive process from tower A to tower C, using tower B as auxiliary
 move(NUMBER_OF_DISKS, A, B, C)
-

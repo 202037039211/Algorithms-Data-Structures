@@ -19,4 +19,8 @@ print(add_time('11:43 AM', '00:20'))      # Output: "12:03 PM"
 print(add_time('10:10 PM', '3:30'))       # Output: "1:40 AM"
 print(add_time('11:43 PM', '24:20', 'tueSday'))  # Output: "12:03 AM, Thursday (next day)"
 print(add_time('6:30 PM', '205:12'))      # Output: "11:42 AM, Thursday (9 days later)"
+```
 
+# Error Handling:
+  - The function supports edge cases such as time crossing over to the next day or multiple days later.
+  - The function also formats the time correctly, adding AM or PM as needed.

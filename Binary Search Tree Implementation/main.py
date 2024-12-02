@@ -115,4 +115,3 @@ if __name__ == "__main__":
 
     print("Search for 40:", bst.search(40))  # Should return None (node not found)
     print('Inorder traversal after deleting 40:', bst.inorder_traversal())  # Tree after deletion
-

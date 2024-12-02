@@ -13,7 +13,8 @@ This project calculates the square root of a given number using the bisection me
 
 ## Usage
 1. Clone or download the repository.
-2. Run the script:
-   ```bash
-   python square_root_bisection.py
 
+2. Run the script:
+```bash
+python main.py
+```

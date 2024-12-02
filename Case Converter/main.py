@@ -13,4 +13,3 @@ def main():
     print(convert_to_snake_case('IAmAPascalCasedString'))  # Expected output: 'i_am_a_pascal_cased_string'
 
 main()
-

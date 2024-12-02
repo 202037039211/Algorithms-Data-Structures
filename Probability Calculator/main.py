@@ -46,4 +46,3 @@ print("Test 3 - Remaining Contents:", hat.contents)  # Should be empty now
 drawn_balls = hat.draw(0)
 print("Test 4 - Drawn Balls (0):", drawn_balls)
 print("Test 4 - Remaining Contents (0):", hat.contents)  # Should still be empty
-

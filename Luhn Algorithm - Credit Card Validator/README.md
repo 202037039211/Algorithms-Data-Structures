@@ -19,4 +19,3 @@ This project verifies credit card numbers using the Luhn algorithm, ensuring the
 
 ## License:
 This project is licensed under the MIT License.
-

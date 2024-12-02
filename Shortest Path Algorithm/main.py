@@ -48,4 +48,3 @@ def shortest_path(graph, start, target=''):
 
 # Example call: Find shortest paths from node 'A' to all other nodes
 shortest_path(my_graph, 'A')
-

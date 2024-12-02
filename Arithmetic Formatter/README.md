@@ -19,4 +19,10 @@ print(arithmetic_arranger(problems))
 
 problems_with_answers = ["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"]
 print(arithmetic_arranger(problems_with_answers, True))
+```
 
+## Error Handling:
+    - **Too many problems**: If there are more than 5 problems, it returns: Error: Too many problems.
+    - **Invalid operator**: If the operator is not + or -, it returns: Error: Operator must be '+' or '-'
+    - **Non-digit operands**: If any operand is not a digit, it returns: Error: Numbers must only contain digits.
+    - **Operand length exceeds 4 digits**: If a number has more than 4 digits, it returns: Error: Numbers cannot be more than four digits.

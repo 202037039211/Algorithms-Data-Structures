@@ -12,7 +12,8 @@ This project defines two classes, `R2Vector` for 2D vectors and `R3Vector` for 3
 
 ## Usage
 1. Clone or download the repository.
-2. Run the script:
-   ```bash
-   python vector_space.py
 
+2. Run the script:
+```bash
+python main.py
+```

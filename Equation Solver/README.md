@@ -32,4 +32,4 @@ quadr_eq = QuadraticEquation(1, 2, 1)
 
 # Solve and display results
 print(solver(quadr_eq))
-
+```

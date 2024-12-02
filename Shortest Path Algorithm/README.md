@@ -13,7 +13,8 @@ This project implements Dijkstra's algorithm to find the shortest paths from a g
 
 ## Usage
 1. Clone or download the repository.
-2. Run the script:
-   ```bash
-   python shortest_path.py
 
+2. Run the script:
+```bash
+python main.py
+```

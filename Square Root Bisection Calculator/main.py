@@ -56,4 +56,3 @@ def square_root_bisection(square_target, tolerance=1e-7, max_iterations=100):
 if __name__ == "__main__":
     N = 16  # Change this value to test different numbers
     square_root_bisection(N)
-

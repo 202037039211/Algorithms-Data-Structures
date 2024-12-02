@@ -30,4 +30,7 @@ print(rect.get_picture())  # Visual representation
 sq = Square(9)
 print(sq.get_area())  # Output: 81
 print(sq.get_diagonal())  # Output: 5.656854249492381
+```
 
+# Error Handling:
+  - Rectangle too big for picture: If either the width or height exceeds 50, the picture cannot be displayed. Error: Too big for picture.

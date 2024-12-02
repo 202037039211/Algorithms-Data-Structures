@@ -17,4 +17,3 @@ For 3 disks, the output shows each move, demonstrating how the puzzle is solved.
 
 ## License:
 This project is licensed under the MIT License.
-

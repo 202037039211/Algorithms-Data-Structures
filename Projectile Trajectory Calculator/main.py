@@ -125,4 +125,3 @@ def projectile_helper(speed, height, angle):
 # Example call to visualize trajectory
 if __name__ == '__main__':
     projectile_helper(10, 3, 45)
-

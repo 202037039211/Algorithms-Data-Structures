@@ -22,4 +22,4 @@ bst.insert(50)
 bst.insert(30)
 bst.insert(70)
 print(bst.inorder_traversal())  # Output: [30, 50, 70]
-
+```

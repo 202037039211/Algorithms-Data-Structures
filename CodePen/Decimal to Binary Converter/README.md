@@ -18,4 +18,3 @@ You can view and run the project directly on [CodePen](YOUR_CODEPEN_LINK).
 - `index.html`: The HTML structure.
 - `styles.css`: The CSS for styling the application.
 - `script.js`: The JavaScript logic for converting decimal to binary and displaying the animation.
-

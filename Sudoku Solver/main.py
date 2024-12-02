@@ -87,4 +87,3 @@ puzzle = [
 ]
 
 solve_sudoku(puzzle)
-

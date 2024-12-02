@@ -14,7 +14,8 @@ This Python project calculates and visualizes the trajectory of a projectile giv
 
 ## Usage
 1. Clone or download the repository.
-2. Run the script:
-   ```bash
-   python projectile_trajectory_calculator.py
 
+2. Run the script:
+```bash
+python main.py
+```

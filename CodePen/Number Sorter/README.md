@@ -27,4 +27,6 @@ To run this project locally:
 2. Open the `index.html` file in your browser.
 
 ## Project Structure
-/index.html # Main HTML file /styles.css # CSS file for styling /script.js # JavaScript file for sorting functionality
+/index.html # Main HTML file
+/styles.css # CSS file for styling
+/script.js # JavaScript file for sorting functionality

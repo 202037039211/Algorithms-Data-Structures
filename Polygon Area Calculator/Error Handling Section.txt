@@ -1,3 +1,0 @@
-Error Handling:
-Rectangle too big for picture: If either the width or height exceeds 50, the picture cannot be displayed. Error: Too big for picture.
-

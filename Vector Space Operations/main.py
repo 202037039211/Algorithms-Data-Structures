@@ -139,4 +139,3 @@ if __name__ == "__main__":
     
     v6 = v1.cross(v2)
     print(f'v1 x v2 (Cross Product) = {v6}')
-

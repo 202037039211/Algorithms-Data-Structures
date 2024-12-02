@@ -17,4 +17,3 @@ This project implements the merge sort algorithm, a divide-and-conquer sorting t
 
 ## License:
 This project is licensed under the MIT License.
-

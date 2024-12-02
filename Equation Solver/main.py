@@ -150,4 +150,3 @@ quadr_eq = QuadraticEquation(1, 2, 1)  # Quadratic equation: x^2 + 2x + 1 = 0
 
 # Solve and display the results
 print(solver(quadr_eq))
-

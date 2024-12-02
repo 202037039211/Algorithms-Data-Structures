@@ -12,4 +12,4 @@ This project provides a function to convert strings in PascalCase or camelCase f
 
 ```python
 print(convert_to_snake_case('IAmAPascalCasedString'))  # Output: "i_am_a_pascal_cased_string"
-
+```

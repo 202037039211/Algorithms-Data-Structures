@@ -41,4 +41,8 @@ print(drawn_balls)  # Output: A list of 5 drawn balls
 # Draw 0 balls
 drawn_balls = hat.draw(0)
 print(drawn_balls)  # Output: []
+```
 
+# Error Handling:
+  - Drawing more balls than available: If more balls are requested than present in the hat, it returns all available balls.
+  - Drawing 0 balls: If 0 balls are drawn, it returns an empty list and leaves the hat unchanged.
