@@ -1,0 +1,4 @@
+Error Handling:
+The function supports edge cases such as time crossing over to the next day or multiple days later.
+The function also formats the time correctly, adding AM or PM as needed.
+

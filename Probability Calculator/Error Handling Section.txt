@@ -1,0 +1,3 @@
+Error Handling:
+Drawing more balls than available: If more balls are requested than present in the hat, it returns all available balls.
+Drawing 0 balls: If 0 balls are drawn, it returns an empty list and leaves the hat unchanged.
